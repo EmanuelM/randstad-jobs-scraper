@@ -1,2 +1,3 @@
 exports/*.json
 __pycache__
+*.env
